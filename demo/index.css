@@ -1,19 +1,36 @@
 #jsonpath {
   width: 90%;
   margin-bottom: 10px;
+  background-color: rgb(55, 49, 49);
 }
 
 .container {
   float: left;
   width: 48%;
+  background-color: rgb(55, 49, 49);
+  color: white;
 }
 
 .container textarea {
   margin: 2%;
   width: 98%;
   height: 565px;
+  background-color: rgb(55, 49, 49);
+  color: white;
 }
 
 #demoNode {
   font-size: small;
+  color: white;
+}
+
+body{
+  background-color: rgb(55, 49, 49);
+  color: white;
+  
+}
+
+input{
+  font-size:large;
+  color: white;
 }
